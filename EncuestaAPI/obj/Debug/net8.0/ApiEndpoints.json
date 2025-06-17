@@ -1,0 +1,145 @@
+[
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "Get",
+    "RelativePath": "api/ListaEncuesta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "Post",
+    "RelativePath": "api/ListaEncuesta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EncuestaAPI.Models.DTOs.ListaEncuestaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "GetEncuesta",
+    "RelativePath": "api/ListaEncuesta/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "Put",
+    "RelativePath": "api/ListaEncuesta/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drto",
+        "Type": "EncuestaAPI.Models.DTOs.ListaEncuestaDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "Delete",
+    "RelativePath": "api/ListaEncuesta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "GetAplicacionActiva",
+    "RelativePath": "api/ListaEncuesta/AplicacionActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "encuestaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "GuardarRespuesta",
+    "RelativePath": "api/ListaEncuesta/GuardarRespuesta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EncuestaAPI.Models.DTOs.RespuestaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.ListaEncuestaController",
+    "Method": "GetPreguntas",
+    "RelativePath": "api/ListaEncuesta/Preguntas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "encuestaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncuestaAPI.Controllers.UsuariosController",
+    "Method": "Login",
+    "RelativePath": "api/Usuarios/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EncuestaAPI.Models.DTOs.UsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

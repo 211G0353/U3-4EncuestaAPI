@@ -1,0 +1,88 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/agregarRespuesta.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\agregarRespuesta.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19431"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 07:54:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/agregarRespuesta.js8318r5vl.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\agregarRespuesta.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"js8318r5vl"},{"Name":"integrity","Value":"sha256-QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE="},{"Name":"label","Value":"_content/EncuestasWeb/agregarRespuesta.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19431"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 07:54:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/crear.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crear.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R3i8itICSIBNXgSFtD3oXAv7f\u002BGwulLSG885KI34N9U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5008"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022R3i8itICSIBNXgSFtD3oXAv7f\u002BGwulLSG885KI34N9U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:59:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/crear.va4agtens8.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crear.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"va4agtens8"},{"Name":"integrity","Value":"sha256-R3i8itICSIBNXgSFtD3oXAv7f\u002BGwulLSG885KI34N9U="},{"Name":"label","Value":"_content/EncuestasWeb/crear.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5008"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022R3i8itICSIBNXgSFtD3oXAv7f\u002BGwulLSG885KI34N9U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:59:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/css/style.6otv5r2tsb.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6otv5r2tsb"},{"Name":"integrity","Value":"sha256-9niJeEii/1sDHH\u002BDmbDaiap2eC1z0aQJ4Ken445F\u002BR0="},{"Name":"label","Value":"_content/EncuestasWeb/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3843"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229niJeEii/1sDHH\u002BDmbDaiap2eC1z0aQJ4Ken445F\u002BR0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 23:52:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9niJeEii/1sDHH\u002BDmbDaiap2eC1z0aQJ4Ken445F\u002BR0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3843"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229niJeEii/1sDHH\u002BDmbDaiap2eC1z0aQJ4Ken445F\u002BR0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 23:52:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/dinamic.aqds0kzz3n.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dinamic.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aqds0kzz3n"},{"Name":"integrity","Value":"sha256-gvTpz56QhjMsvogHYJp3\u002BStI/LAipsQ8uPiiFUl8kIg="},{"Name":"label","Value":"_content/EncuestasWeb/dinamic.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1033"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022gvTpz56QhjMsvogHYJp3\u002BStI/LAipsQ8uPiiFUl8kIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 05:45:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/dinamic.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dinamic.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gvTpz56QhjMsvogHYJp3\u002BStI/LAipsQ8uPiiFUl8kIg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1033"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022gvTpz56QhjMsvogHYJp3\u002BStI/LAipsQ8uPiiFUl8kIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 05:45:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/estadisticas.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\estadisticas.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2045"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:51:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/estadisticas.p7d1l4p4fs.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\estadisticas.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p7d1l4p4fs"},{"Name":"integrity","Value":"sha256-JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo="},{"Name":"label","Value":"_content/EncuestasWeb/estadisticas.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2045"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:51:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/inicio.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\inicio.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2929"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:59:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/inicio.wipxzy2edz.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\inicio.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wipxzy2edz"},{"Name":"integrity","Value":"sha256-iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k="},{"Name":"label","Value":"_content/EncuestasWeb/inicio.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2929"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 22:59:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2004"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jun 2025 23:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EncuestasWeb/login.ll2pteoisc.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ll2pteoisc"},{"Name":"integrity","Value":"sha256-aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk="},{"Name":"label","Value":"_content/EncuestasWeb/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2004"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jun 2025 23:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

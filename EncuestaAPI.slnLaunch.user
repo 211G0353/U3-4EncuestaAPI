@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EncuestaAPI\\EncuestaAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EncuestasWeb\\EncuestasWeb.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

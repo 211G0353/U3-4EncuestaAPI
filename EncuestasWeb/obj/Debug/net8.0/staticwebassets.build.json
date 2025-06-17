@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "HsfCsYIU/diJr7/8HBP7AsEWBtE+hdRJR5AQDMLru6k=",
+  "Source": "EncuestasWeb",
+  "BasePath": "_content/EncuestasWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EncuestasWeb\\wwwroot",
+      "Source": "EncuestasWeb",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "agregarRespuesta#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "js8318r5vl",
+      "Integrity": "QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\agregarRespuesta.html"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "crear#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "va4agtens8",
+      "Integrity": "R3i8itICSIBNXgSFtD3oXAv7f+GwulLSG885KI34N9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\crear.html"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\css\\style.css",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6otv5r2tsb",
+      "Integrity": "9niJeEii/1sDHH+DmbDaiap2eC1z0aQJ4Ken445F+R0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "dinamic#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aqds0kzz3n",
+      "Integrity": "gvTpz56QhjMsvogHYJp3+StI/LAipsQ8uPiiFUl8kIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dinamic.js"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "estadisticas#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p7d1l4p4fs",
+      "Integrity": "JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estadisticas.html"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "inicio#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wipxzy2edz",
+      "Integrity": "iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\inicio.html"
+    },
+    {
+      "Identity": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\login.html",
+      "SourceId": "EncuestasWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\",
+      "BasePath": "_content/EncuestasWeb",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ll2pteoisc",
+      "Integrity": "aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "agregarRespuesta.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 07:54:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE="
+        }
+      ]
+    },
+    {
+      "Route": "agregarRespuesta.js8318r5vl.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 07:54:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js8318r5vl"
+        },
+        {
+          "Name": "label",
+          "Value": "agregarRespuesta.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwCCl5VXwStvkZNjMrUQkzf1OgPhGerYrDMaX06dFTE="
+        }
+      ]
+    },
+    {
+      "Route": "crear.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3i8itICSIBNXgSFtD3oXAv7f+GwulLSG885KI34N9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:59:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3i8itICSIBNXgSFtD3oXAv7f+GwulLSG885KI34N9U="
+        }
+      ]
+    },
+    {
+      "Route": "crear.va4agtens8.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3i8itICSIBNXgSFtD3oXAv7f+GwulLSG885KI34N9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:59:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "va4agtens8"
+        },
+        {
+          "Name": "label",
+          "Value": "crear.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3i8itICSIBNXgSFtD3oXAv7f+GwulLSG885KI34N9U="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.6otv5r2tsb.css",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9niJeEii/1sDHH+DmbDaiap2eC1z0aQJ4Ken445F+R0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 23:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6otv5r2tsb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9niJeEii/1sDHH+DmbDaiap2eC1z0aQJ4Ken445F+R0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9niJeEii/1sDHH+DmbDaiap2eC1z0aQJ4Ken445F+R0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 23:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9niJeEii/1sDHH+DmbDaiap2eC1z0aQJ4Ken445F+R0="
+        }
+      ]
+    },
+    {
+      "Route": "dinamic.aqds0kzz3n.js",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvTpz56QhjMsvogHYJp3+StI/LAipsQ8uPiiFUl8kIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 05:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aqds0kzz3n"
+        },
+        {
+          "Name": "label",
+          "Value": "dinamic.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvTpz56QhjMsvogHYJp3+StI/LAipsQ8uPiiFUl8kIg="
+        }
+      ]
+    },
+    {
+      "Route": "dinamic.js",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvTpz56QhjMsvogHYJp3+StI/LAipsQ8uPiiFUl8kIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 05:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvTpz56QhjMsvogHYJp3+StI/LAipsQ8uPiiFUl8kIg="
+        }
+      ]
+    },
+    {
+      "Route": "estadisticas.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo="
+        }
+      ]
+    },
+    {
+      "Route": "estadisticas.p7d1l4p4fs.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p7d1l4p4fs"
+        },
+        {
+          "Name": "label",
+          "Value": "estadisticas.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JU7GCirlJA98zDO5pe1R9VgRRaYNiydNH8erZRGSnRo="
+        }
+      ]
+    },
+    {
+      "Route": "inicio.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k="
+        }
+      ]
+    },
+    {
+      "Route": "inicio.wipxzy2edz.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 22:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wipxzy2edz"
+        },
+        {
+          "Name": "label",
+          "Value": "inicio.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJUedses84zAOvzvewjjpotUF6qru2V17fNFdx/a69k="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 23:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk="
+        }
+      ]
+    },
+    {
+      "Route": "login.ll2pteoisc.html",
+      "AssetFile": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 23:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll2pteoisc"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQ70kGQ/gAhzkQ3Tvbq9EY0EOljHDktCMm4quhWQXsk="
+        }
+      ]
+    }
+  ]
+}

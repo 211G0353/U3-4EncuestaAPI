@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A1EE0A-4511-4FFD-B773-A92BDB50D1F0}|EncuestaAPI\\EncuestaAPI.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestaapi\\controllers\\listaencuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A1EE0A-4511-4FFD-B773-A92BDB50D1F0}|EncuestaAPI\\EncuestaAPI.csproj|solutionrelative:encuestaapi\\controllers\\listaencuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestasweb\\wwwroot\\estadisticas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|solutionrelative:encuestasweb\\wwwroot\\estadisticas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestasweb\\wwwroot\\agregarrespuesta.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|solutionrelative:encuestasweb\\wwwroot\\agregarrespuesta.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestasweb\\wwwroot\\crear.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|solutionrelative:encuestasweb\\wwwroot\\crear.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestasweb\\wwwroot\\inicio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|solutionrelative:encuestasweb\\wwwroot\\inicio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|f:\\8vo sem\\3. aplicaciones moviles\\encuestaapi\\encuestasweb\\wwwroot\\dinamic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C614971-4C03-470F-B87B-1FA1D61E4F58}|EncuestasWeb\\EncuestasWeb.csproj|solutionrelative:encuestasweb\\wwwroot\\dinamic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estadisticas.html",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+              "RelativeDocumentMoniker": "EncuestasWeb\\wwwroot\\estadisticas.html",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+              "RelativeToolTip": "EncuestasWeb\\wwwroot\\estadisticas.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-16T19:13:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaEncuestaController.cs",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestaAPI\\Controllers\\ListaEncuestaController.cs",
+              "RelativeDocumentMoniker": "EncuestaAPI\\Controllers\\ListaEncuestaController.cs",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestaAPI\\Controllers\\ListaEncuestaController.cs",
+              "RelativeToolTip": "EncuestaAPI\\Controllers\\ListaEncuestaController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwKsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:56:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crear.html",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+              "RelativeDocumentMoniker": "EncuestasWeb\\wwwroot\\crear.html",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+              "RelativeToolTip": "EncuestasWeb\\wwwroot\\crear.html",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T00:51:59.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "agregarRespuesta.html",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+              "RelativeDocumentMoniker": "EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+              "RelativeToolTip": "EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAAAGoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-15T22:08:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dinamic.js",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+              "RelativeDocumentMoniker": "EncuestasWeb\\wwwroot\\dinamic.js",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+              "RelativeToolTip": "EncuestasWeb\\wwwroot\\dinamic.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-16T05:44:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inicio.html",
+              "DocumentMoniker": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+              "RelativeDocumentMoniker": "EncuestasWeb\\wwwroot\\inicio.html",
+              "ToolTip": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+              "RelativeToolTip": "EncuestasWeb\\wwwroot\\inicio.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-16T06:11:09.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

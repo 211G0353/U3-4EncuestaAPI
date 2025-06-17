@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\agregarRespuesta.html",
+      "PackagePath": "staticwebassets\\agregarRespuesta.html"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\crear.html",
+      "PackagePath": "staticwebassets\\crear.html"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\dinamic.js",
+      "PackagePath": "staticwebassets\\dinamic.js"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\estadisticas.html",
+      "PackagePath": "staticwebassets\\estadisticas.html"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\inicio.html",
+      "PackagePath": "staticwebassets\\inicio.html"
+    },
+    {
+      "Id": "F:\\8vo sem\\3. Aplicaciones Moviles\\EncuestaAPI\\EncuestasWeb\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EncuestasWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EncuestasWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EncuestasWeb.props",
+      "PackagePath": "build\\EncuestasWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EncuestasWeb.props",
+      "PackagePath": "buildMultiTargeting\\EncuestasWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EncuestasWeb.props",
+      "PackagePath": "buildTransitive\\EncuestasWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

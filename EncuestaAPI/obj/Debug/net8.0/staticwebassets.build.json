@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4iB1EI3LPeDaIMvSQWC9+i7b+lToyLrqo2Rs6YkSZKs=",
+  "Source": "EncuestaAPI",
+  "BasePath": "_content/EncuestaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

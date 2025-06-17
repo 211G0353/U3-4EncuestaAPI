@@ -1,0 +1,7 @@
+wwwroot\agregarRespuesta.html
+wwwroot\crear.html
+wwwroot\css\style.css
+wwwroot\dinamic.js
+wwwroot\estadisticas.html
+wwwroot\inicio.html
+wwwroot\login.html
